@@ -1,0 +1,50 @@
+Name: Jade Thirlwall
+Roll Number: 18
+Stream: Science
+Marks: 89.0
+
+Name: Perrie Edwards
+Roll Number: 19
+Stream: Arts
+Marks: 84.0
+
+Name: Leigh-Anne Pinnock
+Roll Number: 20
+Stream: Commerce
+Marks: 87.0
+
+Name: Sabrina 
+Roll Number: 21
+Stream: Science
+Marks: 69.0
+
+Name: Raye
+Roll Number: 22
+Stream: Arts
+Marks: 97.0
+
+Name: Sofia
+Roll Number: 23
+Stream: Commerce
+Marks: 76.0
+
+Name: Isabel
+Roll Number: 24
+Stream: Arts
+Marks: 67.0
+
+Name: Berin
+Roll Number: 25
+Stream: Arts
+Marks: 65.0
+
+Name: Carol
+Roll Number: 26
+Stream: Science
+Marks: 89.0
+
+Name: Dua
+Roll Number: 26
+Stream: Science
+Marks: 78.0
+
